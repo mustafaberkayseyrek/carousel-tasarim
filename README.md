@@ -1,1 +1,1 @@
-Deneme
+Carousel Tasarım Taslağı
